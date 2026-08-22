@@ -1,8 +1,7 @@
 {
   "name": "chal_ostaad_backend",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Stripe payment API for Chal Ostaad",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,6 +10,7 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "stripe": "^22.0.1"
+    "firebase-admin": "^14.3.0",
+    "stripe": "^16.0.0"
   }
 }
