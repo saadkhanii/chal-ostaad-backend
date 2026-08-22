@@ -10,7 +10,7 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "firebase-admin": "^14.3.0",
+    "firebase-admin": "^12.7.0",
     "stripe": "^16.0.0"
   }
 }
